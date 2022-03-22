@@ -16,6 +16,11 @@
     font-display: swap;
 }
 
+.nav-scrolled {
+    background-color: #18181b80 !important;
+    transition: background-color 200ms linear;
+}
+
 body {
     background-image: url('../assets/TEXTURE.jpg');
     background-repeat: no-repeat;
