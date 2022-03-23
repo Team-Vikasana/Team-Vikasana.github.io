@@ -29,6 +29,12 @@
             "position": "Asst. Prof., Mechanical Department",
             "img": "./assets/team/faculty/priyanka_mam.png",
             "linkedin": "#"
+        },
+        {
+            "name": "Mr. Arvind Kumar",
+            "position": "Asst. Prof., Electronics Department",
+            "img": "./assets/team/faculty/arvind_sir.png",
+            "linkedin": "#"
         }
     ]
 }
